@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clean_Code_&amp;_Refactoring/Clean_Code_&amp;_Refactoring.iml" filepath="$PROJECT_DIR$/Clean_Code_&amp;_Refactoring/Clean_Code_&amp;_Refactoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MD2.iml" filepath="$PROJECT_DIR$/.idea/MD2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Md2_Abstract Class &amp; Interface/Md2_Abstract Class &amp; Interface.iml" filepath="$PROJECT_DIR$/Md2_Abstract Class &amp; Interface/Md2_Abstract Class &amp; Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+    </modules>
+  </component>
+</project>
